@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1175" height="581" viewBox="0 0 1175 581" font-family="ConsolasFallback, Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" width="1175" height="602" viewBox="0 0 1175 602" font-family="ConsolasFallback, Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="15px">
 <style>.key{fill:#5b9bff}.val{fill:#e6edf3}.dots{fill:#5b6573}.head{fill:#5b9bff;font-weight:bold}.user{fill:#ffb86c;font-weight:bold}.txt{fill:#e6edf3}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:blink 1.1s step-end infinite}@keyframes fade{from{opacity:0}to{opacity:1}}.art tspan{opacity:0;animation:fade .5s ease forwards}</style>
-<rect width="1175" height="581" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect width="1175" height="602" rx="12" fill="#161b22" stroke="#30363d"/>
 <text class="art" fill="#3d7eff" xml:space="preserve">
-<tspan x="28" y="138" style="animation-delay:0.00s">TTTTTTTTTTTTTTTTTTTTTTTMMMMMMMM               MMMMMMMM</tspan>
-<tspan x="28" y="158" style="animation-delay:0.06s">T:::::::::::::::::::::TM:::::::M             M:::::::M</tspan>
-<tspan x="28" y="180" style="animation-delay:0.12s">T:::::::::::::::::::::TM::::::::M           M::::::::M</tspan>
-<tspan x="28" y="200" style="animation-delay:0.18s">T:::::TT:::::::TT:::::TM:::::::::M         M:::::::::M</tspan>
-<tspan x="28" y="222" style="animation-delay:0.24s">TTTTTT  T:::::T  TTTTTTM::::::::::M       M::::::::::M</tspan>
-<tspan x="28" y="242" style="animation-delay:0.30s">        T:::::T        M:::::::::::M     M:::::::::::M</tspan>
-<tspan x="28" y="264" style="animation-delay:0.36s">        T:::::T        M:::::::M::::M   M::::M:::::::M</tspan>
-<tspan x="28" y="284" style="animation-delay:0.42s">        T:::::T        M::::::M M::::M M::::M M::::::M</tspan>
-<tspan x="28" y="306" style="animation-delay:0.48s">        T:::::T        M::::::M  M::::M::::M  M::::::M</tspan>
-<tspan x="28" y="326" style="animation-delay:0.54s">        T:::::T        M::::::M   M:::::::M   M::::::M</tspan>
-<tspan x="28" y="348" style="animation-delay:0.60s">        T:::::T        M::::::M    M:::::M    M::::::M</tspan>
-<tspan x="28" y="368" style="animation-delay:0.66s">        T:::::T        M::::::M     MMMMM     M::::::M</tspan>
-<tspan x="28" y="390" style="animation-delay:0.72s">      TT:::::::TT      M::::::M               M::::::M</tspan>
-<tspan x="28" y="410" style="animation-delay:0.78s">      T:::::::::T      M::::::M               M::::::M</tspan>
-<tspan x="28" y="432" style="animation-delay:0.84s">      T:::::::::T      M::::::M               M::::::M</tspan>
-<tspan x="28" y="452" style="animation-delay:0.90s">      TTTTTTTTTTT      MMMMMMMM               MMMMMMMM</tspan>
+<tspan x="28" y="148" style="animation-delay:0.00s">TTTTTTTTTTTTTTTTTTTTTTTMMMMMMMM               MMMMMMMM</tspan>
+<tspan x="28" y="169" style="animation-delay:0.06s">T:::::::::::::::::::::TM:::::::M             M:::::::M</tspan>
+<tspan x="28" y="190" style="animation-delay:0.12s">T:::::::::::::::::::::TM::::::::M           M::::::::M</tspan>
+<tspan x="28" y="211" style="animation-delay:0.18s">T:::::TT:::::::TT:::::TM:::::::::M         M:::::::::M</tspan>
+<tspan x="28" y="232" style="animation-delay:0.24s">TTTTTT  T:::::T  TTTTTTM::::::::::M       M::::::::::M</tspan>
+<tspan x="28" y="253" style="animation-delay:0.30s">        T:::::T        M:::::::::::M     M:::::::::::M</tspan>
+<tspan x="28" y="274" style="animation-delay:0.36s">        T:::::T        M:::::::M::::M   M::::M:::::::M</tspan>
+<tspan x="28" y="295" style="animation-delay:0.42s">        T:::::T        M::::::M M::::M M::::M M::::::M</tspan>
+<tspan x="28" y="316" style="animation-delay:0.48s">        T:::::T        M::::::M  M::::M::::M  M::::::M</tspan>
+<tspan x="28" y="337" style="animation-delay:0.54s">        T:::::T        M::::::M   M:::::::M   M::::::M</tspan>
+<tspan x="28" y="358" style="animation-delay:0.60s">        T:::::T        M::::::M    M:::::M    M::::::M</tspan>
+<tspan x="28" y="379" style="animation-delay:0.66s">        T:::::T        M::::::M     MMMMM     M::::::M</tspan>
+<tspan x="28" y="400" style="animation-delay:0.72s">      TT:::::::TT      M::::::M               M::::::M</tspan>
+<tspan x="28" y="421" style="animation-delay:0.78s">      T:::::::::T      M::::::M               M::::::M</tspan>
+<tspan x="28" y="442" style="animation-delay:0.84s">      T:::::::::T      M::::::M               M::::::M</tspan>
+<tspan x="28" y="463" style="animation-delay:0.90s">      TTTTTTTTTTT      MMMMMMMM               MMMMMMMM</tspan>
 </text>
 <text xml:space="preserve">
 <tspan x="559" y="43"><tspan class="user">tinna</tspan><tspan class="txt">@</tspan><tspan class="user">mahidol-ict</tspan><tspan class="dots"> ──────────────────────────────────────────────</tspan></tspan>
@@ -33,14 +33,15 @@
 <tspan x="559" y="274"><tspan class="key">Languages.Data:</tspan><tspan class="dots"> ........... </tspan><tspan class="val">PostgreSQL, MySQL, MongoDB, ChromaDB</tspan></tspan>
 <tspan x="559" y="295"><tspan class="key">Languages.Real:</tspan><tspan class="dots"> .................................. </tspan><tspan class="val">Thai, English</tspan></tspan>
 <tspan x="559" y="337"><tspan class="head">─ Achievements </tspan><tspan class="dots">─────────────────────────────────────────────────</tspan></tspan>
-<tspan x="559" y="358"><tspan class="key">MuRata Hackathon 2025:</tspan><tspan class="dots"> ..................... </tspan><tspan class="val">Top 10 Finalist × 2</tspan></tspan>
-<tspan x="559" y="379"><tspan class="key">ETDA Compliance AI:</tspan><tspan class="dots"> ...................... </tspan><tspan class="val">3,000+ listings / day</tspan></tspan>
-<tspan x="559" y="400"><tspan class="key">Document Q&amp;A (RAG):</tspan><tspan class="dots"> .................... </tspan><tspan class="val">+40% retrieval accuracy</tspan></tspan>
-<tspan x="559" y="442"><tspan class="head">─ Contact </tspan><tspan class="dots">──────────────────────────────────────────────────────</tspan></tspan>
-<tspan x="559" y="463"><tspan class="key">Email:</tspan><tspan class="dots"> ..................................... </tspan><tspan class="val">tinna.mks@gmail.com</tspan></tspan>
-<tspan x="559" y="484"><tspan class="key">LinkedIn:</tspan><tspan class="dots"> .............................. </tspan><tspan class="val">in/tinna-mongkolsaomoke</tspan></tspan>
-<tspan x="559" y="505"><tspan class="key">Portfolio:</tspan><tspan class="dots"> .......... </tspan><tspan class="val">tinna-mongkolsaomoke-portfolio.netlify.app</tspan></tspan>
-<tspan x="559" y="547"><tspan class="user">tinna</tspan><tspan class="txt">@</tspan><tspan class="user">mahidol-ict</tspan><tspan class="txt">:~$ </tspan></tspan>
+<tspan x="559" y="358"><tspan class="key">ICT × The Mall 2026:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">Top 10 Finalist · CrowdX</tspan></tspan>
+<tspan x="559" y="379"><tspan class="key">MuRata Hackathon 2025:</tspan><tspan class="dots"> ..................... </tspan><tspan class="val">Top 10 Finalist × 2</tspan></tspan>
+<tspan x="559" y="400"><tspan class="key">ETDA Compliance AI:</tspan><tspan class="dots"> ...................... </tspan><tspan class="val">3,000+ listings / day</tspan></tspan>
+<tspan x="559" y="421"><tspan class="key">Document Q&amp;A (RAG):</tspan><tspan class="dots"> .................... </tspan><tspan class="val">+40% retrieval accuracy</tspan></tspan>
+<tspan x="559" y="463"><tspan class="head">─ Contact </tspan><tspan class="dots">──────────────────────────────────────────────────────</tspan></tspan>
+<tspan x="559" y="484"><tspan class="key">Email:</tspan><tspan class="dots"> ..................................... </tspan><tspan class="val">tinna.mks@gmail.com</tspan></tspan>
+<tspan x="559" y="505"><tspan class="key">LinkedIn:</tspan><tspan class="dots"> .............................. </tspan><tspan class="val">in/tinna-mongkolsaomoke</tspan></tspan>
+<tspan x="559" y="526"><tspan class="key">Portfolio:</tspan><tspan class="dots"> .......... </tspan><tspan class="val">tinna-mongkolsaomoke-portfolio.netlify.app</tspan></tspan>
+<tspan x="559" y="568"><tspan class="user">tinna</tspan><tspan class="txt">@</tspan><tspan class="user">mahidol-ict</tspan><tspan class="txt">:~$ </tspan></tspan>
 </text>
-<rect class="cur" x="748" y="535" width="9" height="17" fill="#5b9bff"/>
+<rect class="cur" x="748" y="556" width="9" height="17" fill="#5b9bff"/>
 </svg>
