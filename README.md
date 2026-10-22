@@ -27,10 +27,42 @@ class Tinna:
 
 ### 🚀 Featured work
 
-- **AI Compliance Monitoring** · *ETDA internship*: multimodal LLM agents (via MCP) that check Shopee, Lazada, and TikTok Shop listings for TIS and Thai FDA certification, built for 3,000+ listings per day
-- **[CrowdX](https://github.com/Sannn-boo/CrowdX)** · 🏆 *Top 10, MUICT × The Mall Hackathon 2026*: turns ordinary mall CCTV into a real-time event visitor counter. It counts only people who actually stop at an event, stores no face data, and uses the same count to calculate both cost per visitor and carbon footprint per visitor. Built with YOLOv8, ByteTrack, and OpenCV.
-- **[Document Q&A with RAG](https://github.com/nanatinna/Document-Q-A-System-with-RAG)**: LangChain + ChromaDB pipeline for questions over technical and financial documents, with about 40% better retrieval
-- **WiFi CSI Elderly Monitoring** · 🏆 *Top 10, MuRata Hackathon 2025*: camera-free activity recognition with ESP32, Raspberry Pi, and a CNN
-- **BinMate** · 🏆 *Top 10, ICTxEN Hackathon 2025*: computer-vision waste sorting with a real-time IoT dashboard
-- **Velocità**: full-stack car rental app built with React, NestJS, and SQL
-- **Climate Temperature Risk Modeling**: KDE and regression on 283k+ observations across six continents
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./projects_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./projects_light.svg">
+    <img alt="Featured work: ETDA AI Compliance Monitoring, CrowdX, Document Q&A with RAG, WiFi CSI Elderly Monitoring, BinMate, Velocità, Climate Temperature Risk Modeling" src="./projects_dark.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <sub>🔗 <a href="https://github.com/Sannn-boo/CrowdX">CrowdX repo</a> · <a href="https://github.com/nanatinna/Document-Q-A-System-with-RAG">Document Q&amp;A repo</a> · <a href="https://tinna-mongkolsaomoke-portfolio.netlify.app/">more on my portfolio →</a></sub>
+</p>
+
+### 🧰 Tech stack
+
+<table align="center">
+  <tr>
+    <td align="right"><code>// languages</code></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=py,ts,js,java,c,matlab" alt="Python, TypeScript, JavaScript, Java, C, MATLAB" /></td>
+  </tr>
+  <tr>
+    <td align="right"><code>// ai &amp; ml</code></td>
+    <td>
+      <img src="https://skillicons.dev/icons?theme=dark&i=pytorch,sklearn,opencv" alt="PyTorch, scikit-learn, OpenCV" /><br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB" /> <img src="https://img.shields.io/badge/MCP-0B4FBF?style=for-the-badge" alt="MCP" /> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" alt="YOLOv8" /> <img src="https://img.shields.io/badge/LLM%20Agents-5B9BFF?style=for-the-badge" alt="LLM Agents" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><code>// web</code></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=react,nestjs,html,css" alt="React, NestJS, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td align="right"><code>// data</code></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=postgres,mysql,mongodb,sqlite" alt="PostgreSQL, MySQL, MongoDB, SQLite" /></td>
+  </tr>
+  <tr>
+    <td align="right"><code>// tools &amp; hardware</code></td>
+    <td><img src="https://skillicons.dev/icons?theme=dark&i=git,github,vscode,raspberrypi,figma" alt="Git, GitHub, VS Code, Raspberry Pi, Figma" /></td>
+  </tr>
+</table>
