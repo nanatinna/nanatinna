@@ -19,7 +19,7 @@ class Tinna:
         self.experience = ["AI Engineer Intern @ ETDA (May–Jul 2026)"]
         self.building   = ["LLM agents", "RAG pipelines", "MCP tool integrations"]
         self.also_into  = ["computer vision", "IoT", "UX/UI design"]
-        self.awards     = ["Top 10 Finalist × 2 — MuRata Hackathon 2025"]
+        self.awards     = ["Top 10 Hackathon Finalist × 2"]
 
     def say_hi(self):
         return "Let's build something useful together 🚀"
@@ -29,7 +29,7 @@ class Tinna:
 
 - **AI Compliance Monitoring** · *ETDA internship*: multimodal LLM agents (via MCP) that check Shopee, Lazada, and TikTok Shop listings for TIS and Thai FDA certification, built for 3,000+ listings per day
 - **[Document Q&A with RAG](https://github.com/nanatinna/Document-Q-A-System-with-RAG)**: LangChain + ChromaDB pipeline for questions over technical and financial documents, with about 40% better retrieval
-- **WiFi CSI Elderly Monitoring** · 🏆 *Top 10, MuRata 2025*: camera-free activity recognition with ESP32, Raspberry Pi, and a CNN
-- **BinMate** · 🏆 *Top 10, MuRata 2025*: computer-vision waste sorting with a real-time IoT dashboard
+- **WiFi CSI Elderly Monitoring** · 🏆 *Top 10, MuRata Hackathon 2025*: camera-free activity recognition with ESP32, Raspberry Pi, and a CNN
+- **BinMate** · 🏆 *Top 10, ICTxEN Hackathon 2025*: computer-vision waste sorting with a real-time IoT dashboard
 - **Velocità**: full-stack car rental app built with React, NestJS, and SQL
 - **Climate Temperature Risk Modeling**: KDE and regression on 283k+ observations across six continents
